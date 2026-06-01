@@ -1,0 +1,6 @@
+torch>=1.9.0
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+scikit-image>=0.18.0
+h5py>=3.3.0
